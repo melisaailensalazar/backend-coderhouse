@@ -1,0 +1,20 @@
+﻿[
+    {
+    "title": "Planta",
+    "price": 300,
+    "thumbnail": "https://www.elmueble.com/medio/2019/03/25/monstera_f97f4746_800x800.jpg",
+    "id": 1
+    },
+    {
+    "title": "Suculenta",
+    "price": 400,
+    "thumbnail": "https://www.wefashiontrends.com/wp-content/uploads/2020/09/dicas-para-cuidar-de-suculentas.jpg",
+    "id": 2
+    },
+    {
+    "title": "Cactus",
+    "price": 500,
+    "thumbnail": "https://www.vanidades.com/__export/1659643337350/sites/vanidades/img/2022/08/04/cactus-orejas-de-conejo-cuidados-2.jpg_346753400.jpg",
+    "id": 3
+    }
+]
