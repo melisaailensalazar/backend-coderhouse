@@ -1,0 +1,19 @@
+{
+  "name": "backend-coderhouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melisaailensalazar/backend-coderhouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melisaailensalazar/backend-coderhouse/issues"
+  },
+  "homepage": "https://github.com/melisaailensalazar/backend-coderhouse#readme"
+}
