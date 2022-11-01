@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/melisaailensalazar/backend-coderhouse/issues"
   },
-  "homepage": "https://github.com/melisaailensalazar/backend-coderhouse#readme"
+  "homepage": "https://github.com/melisaailensalazar/backend-coderhouse#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
